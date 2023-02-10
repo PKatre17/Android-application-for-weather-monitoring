@@ -1,4 +1,4 @@
-# Android-application-for-weather-monitoring
+# Android application for weather monitoring
 
 This project was done in a group of three people where we made an android application to monitor the weather parameters like: Temperature, Wind speed, and Humidity by following below steps:
   1. First step was to design a PCB (Printed Circiut Board) on Eagle.
